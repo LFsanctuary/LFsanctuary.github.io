@@ -2,43 +2,81 @@
 layout: page
 title: LF Sanctuary for Women
 ---
-
-<h1></h1>
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
-        <div class="carousel-item">
-            <img src="https://static.stereogum.com/uploads/2017/12/millenialpink-1513186374-640x480.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item active">
-        <img src="https://data.whicdn.com/images/250049179/large.png" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item">
-        <img src="https://www.beautycolorcode.com/ffbdb3-2048x1536.png" class="d-block w-100" alt="...">
+<!-- ONE PAGE APP - LOAD THESE ON NAV CLICK -->
+<div id="login" class="page">
+    <h2>Hello,</h2>
+    <h3>Enter your invite code below to access the full website</h3>
+    <div class="card" style="width: 45%; margin:auto;">
+        <!--img src="..." class="card-img-top" alt="..."-->
+        <div class="card-body">
+            <form>
+                <div class="form-group">
+                <label for="exampleInputPassword1">Invite Code:</label>
+                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                </div>
+                <button type="submit" class="btn btn-primary" onclick="loadPage('home')">Enter</button>
+            </form>
         </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
 </div>
 
-<form>
-    <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+<div id="home" class="page">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item">
+                <img src="https://static.stereogum.com/uploads/2017/12/millenialpink-1513186374-640x480.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item active">
+            <img src="https://data.whicdn.com/images/250049179/large.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+            <img src="https://www.beautycolorcode.com/ffbdb3-2048x1536.png" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
-    <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-    </div>
-    <div class="form-group form-check">
-    <input type="checkbox" class="form-check-input" id="exampleCheck1">
-    <label class="form-check-label" for="exampleCheck1">Check me out</label>
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula feugiat tortor, vitae cursus risus bibendum non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac imperdiet felis. Pellentesque dui enim, sagittis id metus quis, semper sodales ex. Nunc in ultricies ligula, vulputate placerat dolor. Ut in ante ornare, sodales turpis ac, eleifend ipsum. Proin nisi orci, condimentum non ultricies vel, euismod sit amet magna. Fusce semper nibh vel sapien fermentum eleifend. Morbi quis ex in nunc facilisis tristique. Aliquam elementum quam non lorem mattis, eget feugiat dui aliquam. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam ac cursus sapien, ac consectetur mi. Vivamus at sem et ipsum viverra consequat. Nullam tincidunt sed augue vitae posuere.
+    </p>
+    <p>
+        Aliquam cursus vulputate ex in egestas. Maecenas scelerisque, purus quis dapibus consectetur, orci ipsum fringilla ipsum, a euismod mauris ante sed odio. Donec a interdum nulla. Donec libero turpis, auctor eget ex ut, molestie molestie leo. Sed sed egestas magna, at ornare erat. Fusce efficitur pretium justo sed scelerisque. Integer pellentesque, odio mollis efficitur placerat, massa magna porttitor massa, vel ornare ante orci a nisi.
+    </p> 
+   
+</div>
+
+<div id="about" class="page">
+    <h2>About</h2>
+</div>
+
+<div id="faq" class="page">
+    <h2>FAQ</h2>
+</div>
+
+<div id="phone" class="page">
+    <h2>Telephone Services</h2>
+</div>
+
+<div id="online" class="page">
+    <h2>Online Resources</h2>
+</div>
+
+<div id="affiliates" class="page">
+    <h2>Affiliated Programs</h2>
+</div>
+
+<div id="contact" class="page">
+    <h2>Contact Us</h2>
+</div>
+<div id="visit" class="page">
+    <h2>Arrange a Visit</h2>
+</div>
+<!--contact us, arrange a visit-->
+
+

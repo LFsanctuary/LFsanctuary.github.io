@@ -1,3 +1,7 @@
 .d-block, .w-100 {
-    max-height: 500px !important;
+    max-height: 400px !important;
+}
+
+#nav, #home, #about, #faq, #resources, #online, #phone, #affiliates, #get-help {
+    display:none;
 }
