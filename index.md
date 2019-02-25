@@ -4,7 +4,7 @@ title: LF Sanctuary for Women
 ---
 <!-- ONE PAGE APP - LOAD THESE ON NAV CLICK -->
 <div id="login" class="page">
-    <div class="card welcome-card" style="width: 55%; margin:auto;">
+    <div class="card welcome-card">
         <!--img src="..." class="card-img-top" alt="..."-->
         <h3>Welcome,</h3>
         <h4>please enter your invite code below to access the full website</h4>
