@@ -36,5 +36,27 @@ body {
 
 .navbar-light .navbar-brand {
     font-family: 'Bilbo Swash Caps', cursive !important;
-    color: rgba(111, 0, 122, 0.9)  !important;
+    color: rgba(73, 16, 78, 0.9) !important;
+    margin-right: 10% !important;
+    font-size: 2em !important;
+}
+
+.welcome-card {
+    width: 55%;
+    margin: auto;
+    padding: 4vh 5vw;
+}
+
+.btn-primary {
+    background-color: #bb5fd9;
+    border-color: #bb5fd9;
+}
+
+.btn-primary:hover {
+    background-color: #c75deb;
+    border-color: #c75deb;
+}
+
+.form-control {
+    margin-bottom: 15px !important;
 }
