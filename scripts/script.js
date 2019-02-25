@@ -1,6 +1,6 @@
 loadPage = (pageId) => {
     $("#nav").show();
-    $( ".page-link" ).each(function( index ) {
+    $( ".nav-page-link" ).each(function( index ) {
         console.log( index + ": " + $( this ).text() );
         $( this ).removeClass("active");
     });
