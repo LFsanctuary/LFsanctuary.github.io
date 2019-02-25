@@ -9,6 +9,10 @@ body {
     font-family: 'Comfortaa', cursive !important;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Questrial', sans-serif !important;
+}
+
 .d-block, .w-100 {
     max-height: 400px !important;
 }
@@ -48,15 +52,19 @@ body {
 }
 
 .btn-primary {
-    background-color: #bb5fd9;
-    border-color: #bb5fd9;
+    background-color: #a685db;
+    border-color: #a685db;
 }
 
 .btn-primary:hover {
-    background-color: #c75deb;
-    border-color: #c75deb;
+    background-color: #985ef5;
+    border-color: #985ef5;
 }
 
 .form-control {
     margin-bottom: 15px !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #a685db  !important;
 }
