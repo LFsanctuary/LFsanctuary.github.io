@@ -1,3 +1,14 @@
+/* FONTS
+font-family: 'Bilbo Swash Caps', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Questrial', sans-serif;
+font-family: 'Comfortaa', cursive;
+*/
+body {
+    font-family: 'Comfortaa', cursive !important;
+}
+
 .d-block, .w-100 {
     max-height: 400px !important;
 }
@@ -9,4 +20,21 @@
 
 #nav, #home, #about, #faq, #resources, #online, #phone, #affiliates, #get-help, #contact, #visit {
     display:none;
+}
+
+.bg-light {
+    background-color: #ffffff !important;
+}
+
+.nav-link {
+    background: #bb5fd9 !important;
+    color: white !important;
+    padding: 6px 20px !important;
+    font-size: 0.8em !important;
+    margin-right: 20px !important;
+}
+
+.navbar-light .navbar-brand {
+    font-family: 'Bilbo Swash Caps', cursive !important;
+    color: rgba(111, 0, 122, 0.9)  !important;
 }
