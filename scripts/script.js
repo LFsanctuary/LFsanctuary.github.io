@@ -1,4 +1,5 @@
 loadPage = (pageId) => {
+    document.title = 'LF Sanctuary for Women';
     $("#nav").css("display", "inline-flex");
     $( ".nav-page-link" ).each(function( index ) {
         console.log( index + ": " + $( this ).text() );
