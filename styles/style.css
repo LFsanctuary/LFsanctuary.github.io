@@ -31,11 +31,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-link {
-    background: #bb5fd9 !important;
+    background: #a685db !important;
     color: white !important;
     padding: 6px 20px !important;
     font-size: 0.8em !important;
     margin-right: 20px !important;
+    cursor: pointer;
+}
+
+.nav-link.active {
+    background-color: #985ef5;
 }
 
 .navbar-light .navbar-brand {
