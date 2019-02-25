@@ -2,15 +2,11 @@
     max-height: 400px !important;
 }
 
-#nav, #home, #about, #faq, #resources, #online, #phone, #affiliates, #get-help, #contact, #visit {
-    display:none;
-}
-
-.collapse, .navbar-collapse {
-    display: inline-flex !important;
-}
 
 #nav {
-    display: inline-flex !important;
     width: 100% !important;
+}
+
+#nav, #home, #about, #faq, #resources, #online, #phone, #affiliates, #get-help, #contact, #visit {
+    display:none;
 }

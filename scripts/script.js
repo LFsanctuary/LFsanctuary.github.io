@@ -1,5 +1,5 @@
 loadPage = (pageId) => {
-    $("#nav").show();
+    $("#nav").css("display", "inline-flex");
     $( ".nav-page-link" ).each(function( index ) {
         console.log( index + ": " + $( this ).text() );
         $( this ).removeClass("active");
