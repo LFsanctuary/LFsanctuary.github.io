@@ -70,7 +70,7 @@ title: LF Sanctuary for Women
     <h2>Contact Us</h2>
 </div>
 <div id="visit" class="page">
-    <h2>Arrange a Visit</h2>
+    <h2>Visit the Sanctuary</h2>
 </div>
 <!--contact us, arrange a visit-->
 
