@@ -4,18 +4,13 @@ title: LF Sanctuary for Women
 ---
 <!-- ONE PAGE APP - LOAD THESE ON NAV CLICK -->
 <div id="login" class="page">
-    <h2>Hello,</h2>
-    <h3>Enter your invite code below to access the full website</h3>
-    <div class="card" style="width: 45%; margin:auto;">
+    <div class="card" style="width: 55%; margin:auto;">
         <!--img src="..." class="card-img-top" alt="..."-->
+        <h2>Welcome,</h2>
+        <h3>Enter your invite code below to access the full website</h3>
         <div class="card-body">
-            <form>
-                <div class="form-group">
-                <label for="exampleInputPassword1">Invite Code:</label>
-                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                </div>
-                <button type="submit" class="btn btn-primary" onclick="loadPage('home')">Enter</button>
-            </form>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Enter invite code">
+            <button class="btn btn-primary" onclick="loadPage('home')">Enter</button>
         </div>
     </div>
 </div>
