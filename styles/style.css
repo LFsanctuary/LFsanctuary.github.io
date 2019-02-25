@@ -5,3 +5,7 @@
 #nav, #home, #about, #faq, #resources, #online, #phone, #affiliates, #get-help, #contact, #visit {
     display:none;
 }
+
+.collapse, .navbar-collapse {
+    display: inline-flex !important;
+}
