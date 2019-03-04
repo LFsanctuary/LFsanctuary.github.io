@@ -1,5 +1,5 @@
 loadPage = (pageId) => {
-    let title = 'LF Sanctuary for Women';
+    let title = 'S.A.F.E Sanctuary For Women';
     document.title = title;
     $(document).attr("title", title);
     $("#nav").css("display", "inline-flex");
