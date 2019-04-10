@@ -1,4 +1,11 @@
 loadPage = (pageId) => {
+    if(pageId == 'home'){
+        let password = $( "#exampleInputPassword1" ).val();
+        if(password != 7233){
+            return;
+        }
+    }
+
     let title = 'LF Sanctuary for Women';
     document.title = title;
     $(document).attr("title", title);
