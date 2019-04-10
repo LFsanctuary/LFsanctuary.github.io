@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5, h6 {
     display:none;
 }
 
+#logo-img {
+    margin-right: 15px;
+}
+
 .bg-light {
     background-color: #ffffff !important;
 }
