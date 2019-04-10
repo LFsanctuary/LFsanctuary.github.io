@@ -16,6 +16,7 @@ title: S.A.F.E Sanctuary For Women
 </div>
 
 <div id="home" class="page">
+    <br><br>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item">
@@ -37,16 +38,18 @@ title: S.A.F.E Sanctuary For Women
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <p></p>
+    <p>slick saring like You are S.A.F.E with us</p>
 </div>
 
 <div id="about" class="page">
+    <br><br>
     <h2>Mandate</h2>
     <p>Here at S.A.F.E Sanctuary for Women we have a goal to provide services to women and their children, if they have any, who are victims of abuse. Our program does not focus on one specific form of abuse, we are equipped to help victims of sexual, mental, physical, emotional, and financial abuse. Our program is a safe environment where woman and their children while receiving proper counselling and care to deal with the trauma of being a victim. The goal is to provide as many resources as possible to our clients and their families to help empower them. Our facility will help them get on their feet and be able to self-sustain a life afterwards. We want to make the process of leaving an abusive situation as easy as possible, as we are aware that leaving a situation like that is extremely hard on an individual. By helping to make the transition as easy as possible for the client, we are helping to ensure their safety and wellbeing. When a client is discharged from our facility, they’ll be able to safely obtain housing, employment/financial security and receive counselling to deal with the trauma of being a victim of abuse.</p>
     <p>We will have a team of professionals and volunteers to help us provide the best possible care to our clients. Our team of professionals will include; SW and SSW’s for counselling, ECE’s for child care, Financial advisors, and a secured building for protection. There will also be volunteer staff to help with things such as cleaning duties, and kitchen duties. Our objective is to lessen the number of females who are suffering in abusive relationships that feel they cannot leave. S.A.F.E will provide you with services that will help with the necessary tools to reclaim your life and independence.</p>
 </div>
 
 <div id="services" class="page">
+    <br><br>
     <h2>What we offer</h2>
     <p>We provide a variety of services to assist victims get back on track mentally, emotionally, physically and financially. Our building is secured as to offer safety and comfort for our clients. With the services listen below the client has a chance to regain a healthy well-being and become financially stable to reclaim their independence.</p>
     <p><b>Child Care</b> - S.A.F.E offers a daycare for mothers using our program. It is important for moms to be able to attend schedules counselling sessions as well as job search. We offer daycare in our facility from 9am-5pm that is run by trained Early Childhood Educators for the women who need it. This enables them to be able to go to Job-zone, hand out resumes, go to their counselling session etc...</p>
@@ -58,6 +61,7 @@ title: S.A.F.E Sanctuary For Women
 </div>
 
 <div id="info" class="page">
+    <br><br>
     <h2>Facts & Statistics</h2>
     <ul>
         <li>“Spousal violence has been consistently identified as one of the most common forms of violence against women in Canada.”</li>
@@ -68,6 +72,7 @@ title: S.A.F.E Sanctuary For Women
 </div>
 
 <div id="volunteer" class="page">
+    <br><br>
     <h2>Becoming a Volunteer</h2>
     <p>“Volunteering is the most fundamental act of citizenship and philanthropy in our society. Its offering time, energy and skills of one’s own free will. It is an extension of being a good neighbour, transforming a collection of houses into a community, as people become involved in the improvement of their surroundings and choose to help others. By caring and contributing to change, volunteers decrease suffering and disparity, while they gain skills, self-esteem and change in their lives. People work to improve the lives of their neighbours and, in return, enhance their own lives” - Volunteer Ontario, 1996</p> 
     <h4>General Requirements to Become a Volunteer for S.A.F.E</h4>
@@ -85,6 +90,7 @@ title: S.A.F.E Sanctuary For Women
 </div>
 
 <div id="contact" class="page">
+    <br><br>
     <h2>Contact Us</h2>
     <h4>Staff</h4>
     <ul>
