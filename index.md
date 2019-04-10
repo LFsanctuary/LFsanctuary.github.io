@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LF Sanctuary for Women
+title: S.A.F.E Sanctuary For Women
 ---
 <!-- ONE PAGE APP - LOAD THESE ON NAV CLICK -->
 <div id="login" class="page">
