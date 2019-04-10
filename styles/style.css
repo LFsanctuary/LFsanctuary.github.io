@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100% !important;
 }
 
-#nav, #home, #about, #faq, #resources, #online, #phone, #affiliates, #get-help, #contact, #visit {
+#nav, #home, #about, #services, #info, #contact, #volunteer {
     display:none;
 }
 

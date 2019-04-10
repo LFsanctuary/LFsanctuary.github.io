@@ -37,23 +37,17 @@ title: S.A.F.E Sanctuary For Women
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula feugiat tortor, vitae cursus risus bibendum non. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac imperdiet felis. Pellentesque dui enim, sagittis id metus quis, semper sodales ex. Nunc in ultricies ligula, vulputate placerat dolor. Ut in ante ornare, sodales turpis ac, eleifend ipsum. Proin nisi orci, condimentum non ultricies vel, euismod sit amet magna. Fusce semper nibh vel sapien fermentum eleifend. Morbi quis ex in nunc facilisis tristique. Aliquam elementum quam non lorem mattis, eget feugiat dui aliquam. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam ac cursus sapien, ac consectetur mi. Vivamus at sem et ipsum viverra consequat. Nullam tincidunt sed augue vitae posuere.
-    </p>
-    <p>
-        Aliquam cursus vulputate ex in egestas. Maecenas scelerisque, purus quis dapibus consectetur, orci ipsum fringilla ipsum, a euismod mauris ante sed odio. Donec a interdum nulla. Donec libero turpis, auctor eget ex ut, molestie molestie leo. Sed sed egestas magna, at ornare erat. Fusce efficitur pretium justo sed scelerisque. Integer pellentesque, odio mollis efficitur placerat, massa magna porttitor massa, vel ornare ante orci a nisi.
-    </p> 
-   
+    <p></p>
 </div>
 
 <div id="about" class="page">
-    <h2>MANDATE</h2>
+    <h2>Mandate</h2>
     <p>Here at S.A.F.E Sanctuary for Women we have a goal to provide services to women and their children, if they have any, who are victims of abuse. Our program does not focus on one specific form of abuse, we are equipped to help victims of sexual, mental, physical, emotional, and financial abuse. Our program is a safe environment where woman and their children while receiving proper counselling and care to deal with the trauma of being a victim. The goal is to provide as many resources as possible to our clients and their families to help empower them. Our facility will help them get on their feet and be able to self-sustain a life afterwards. We want to make the process of leaving an abusive situation as easy as possible, as we are aware that leaving a situation like that is extremely hard on an individual. By helping to make the transition as easy as possible for the client, we are helping to ensure their safety and wellbeing. When a client is discharged from our facility, they’ll be able to safely obtain housing, employment/financial security and receive counselling to deal with the trauma of being a victim of abuse.</p>
     <p>We will have a team of professionals and volunteers to help us provide the best possible care to our clients. Our team of professionals will include; SW and SSW’s for counselling, ECE’s for child care, Financial advisors, and a secured building for protection. There will also be volunteer staff to help with things such as cleaning duties, and kitchen duties. Our objective is to lessen the number of females who are suffering in abusive relationships that feel they cannot leave. S.A.F.E will provide you with services that will help with the necessary tools to reclaim your life and independence.</p>
 </div>
 
 <div id="services" class="page">
-    <h2>WHAT WE OFFER</h2>
+    <h2>What we offer</h2>
     <p>We provide a variety of services to assist victims get back on track mentally, emotionally, physically and financially. Our building is secured as to offer safety and comfort for our clients. With the services listen below the client has a chance to regain a healthy well-being and become financially stable to reclaim their independence.</p>
     <p><b>Child Care</b> - S.A.F.E offers a daycare for mothers using our program. It is important for moms to be able to attend schedules counselling sessions as well as job search. We offer daycare in our facility from 9am-5pm that is run by trained Early Childhood Educators for the women who need it. This enables them to be able to go to Job-zone, hand out resumes, go to their counselling session etc...</p>
     <p><b>Counselling</b> - Counselling can be a huge tool to help a victim of abuse start their journey to recovery. A counsellor can help the victim through the healing process one step at a time. The counsellor will provide emotional support and empower the client to reclaim their life and well-being. Our facility offers counselling to women who do not stay in the building as well. Women who have a safe place to live but have been victim to abuse are able to make an appointment with our counsellors to get the help they need. It can be beneficial to seek help from a counsellor for clients to see a “Way-out” and escape the cycle of powerlessness.</p>
@@ -109,7 +103,7 @@ title: S.A.F.E Sanctuary For Women
     Phone: 613-931-5555<br>
     E-mail: S.A.F.E@cornwall.ca<br>
     </p>
-    <h4>Office Hours<h4>
+    <h4>Office Hours</h4>
     <p>Monday to Friday from 8:30am – 4:30pm<br>
     Please note that the office is closed between 12:00 pm and 1:00pm.</p>
 </div>
