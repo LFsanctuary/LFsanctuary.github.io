@@ -195,7 +195,8 @@ a {
     }
 
     .navbar-brand {
-        margin-left: -5px !important;
+        margin-left: -5px;
+        font-size: 0.7em !important;
     }
 
     #logo-img {
