@@ -160,12 +160,15 @@ a {
 }
 
 #facts {
-    background-image: url('/assets/moreinfo.png');
+    background-image: url('/assets/sad.jpg');
 }
 
 .half-img {
     width:40%;
     min-width: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .half-text {
