@@ -197,4 +197,9 @@ a {
     .navbar-brand {
         margin-left: -5px !important;
     }
+
+    #logo-img {
+        width: 25px !important;
+        margin-right: 5px !important;
+    }
 }
