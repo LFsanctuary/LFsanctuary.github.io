@@ -41,7 +41,7 @@ title: S.A.F.E Sanctuary for Women
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <p>Do you or someone you know suffer from abuse? <a href="mailto:ashley.lapierre@student.sl.on.ca"></a></p>
+    <p>Do you or someone you know suffer from abuse? <a href="mailto:ashley.lapierre@student.sl.on.ca">Contact us</a></p>
 </div>
 
 <div id="about" class="page">
