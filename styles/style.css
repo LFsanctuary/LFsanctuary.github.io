@@ -123,3 +123,10 @@ a {
     text-align: center;
     margin-top: 500px !important;
 }
+
+.full-top {
+    height:400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
