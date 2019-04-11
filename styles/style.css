@@ -180,3 +180,21 @@ a {
     min-width: 400px;
     padding: 0 35px;
 }
+
+
+@media(max-width:600px) {
+    .top-bar {
+        position: relative !important;
+        margin-top: 0 !important;
+        top: 0 !important;
+    }
+
+    .full-top .message-text {
+        font-size: 1.2em !important;
+        top: calc(200px - 34%) !important;
+    }
+
+    .navbar-brand {
+        margin-left: -5px !important;
+    }
+}
