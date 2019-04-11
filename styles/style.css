@@ -134,12 +134,12 @@ a {
     margin-left: calc(-50vw + 50%);
 }
 
-.full-top.message-text {
+.full-top .message-text {
     top: calc(200px - 93px);
     padding: 30px;
     margin: auto;
     position: relative;
-    width: 45%;
+    width: 55%;
     background: #ffffffbf;
     text-align: center;
 }
