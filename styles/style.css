@@ -13,10 +13,6 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Questrial', sans-serif !important;
 }
 
-.d-block, .w-100 {
-    max-height: 400px !important;
-}
-
 
 #nav {
     width: 100% !important;
@@ -89,9 +85,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .d-block {
-    height:400px;
+    height: 410px;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
@@ -125,4 +121,5 @@ a {
 
 .home-msg {
     text-align: center;
+    margin-top: 500px !important;
 }
