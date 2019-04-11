@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a:hover {
-    color: #9770d4 !important;
+    color: #6935bd !important;
 }
 
 a {
@@ -127,6 +127,10 @@ a {
 .full-top {
     height:400px;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
+}
+
+#bloom {
+    background-image: url('/assets/bloom.png');
 }

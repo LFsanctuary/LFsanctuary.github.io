@@ -42,7 +42,9 @@ title: Security and Financial Empowerment [SAFE]
 </div>
 
 <div id="about" class="page">
-    <img src="/assets/mandate.png" class="full-top">
+    <div id="bloom" class="full-top">
+        <h1>HOW TO FEEL SAFE AGAIN AFTER A TRAUMA OR BREAKDOWN</h1>
+    </div>
     <h2>Mandate</h2>
     <p>Here at S.A.F.E Sanctuary for Women we have a goal to provide services to women and their children, if they have any, who are victims of abuse. Our program does not focus on one specific form of abuse, we are equipped to help victims of sexual, mental, physical, emotional, and financial abuse. Our program is a safe environment where woman and their children while receiving proper counselling and care to deal with the trauma of being a victim. The goal is to provide as many resources as possible to our clients and their families to help empower them. Our facility will help them get on their feet and be able to self-sustain a life afterwards. We want to make the process of leaving an abusive situation as easy as possible, as we are aware that leaving a situation like that is extremely hard on an individual. By helping to make the transition as easy as possible for the client, we are helping to ensure their safety and wellbeing. When a client is discharged from our facility, they’ll be able to safely obtain housing, employment/financial security and receive counselling to deal with the trauma of being a victim of abuse.</p>
     <p>We will have a team of professionals and volunteers to help us provide the best possible care to our clients. Our team of professionals will include; SW and SSW’s for counselling, ECE’s for child care, Financial advisors, and a secured building for protection. There will also be volunteer staff to help with things such as cleaning duties, and kitchen duties. Our objective is to lessen the number of females who are suffering in abusive relationships that feel they cannot leave. S.A.F.E will provide you with services that will help with the necessary tools to reclaim your life and independence.</p>
