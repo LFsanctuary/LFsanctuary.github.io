@@ -1,6 +1,6 @@
 ---
 layout: page
-title: S.A.F.E Sanctuary for Women
+title: Security and Financial Empowerment [SAFE]
 ---
 <!-- ONE PAGE APP - LOAD THESE ON NAV CLICK -->
 <div id="login" class="page">
@@ -17,9 +17,8 @@ title: S.A.F.E Sanctuary for Women
 
 <div id="home" class="page">
     <br><br>
-    <h4>Security and Financial Empowerment [SAFE]</h4>
-    <h5>Sanctuary for Women Victims of Abuse</h5>
-    <p>You are SAFE with us</p>
+    <h4>Sanctuary for Women Victims of Abuse</h4>
+    <h5><i>You are SAFE with us</i></h5>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item">
