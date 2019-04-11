@@ -81,8 +81,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .carousel {
-    margin-top: 90px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 77px;
     margin-bottom: 20px !important;
+}
+
+.carousel-item {
+    background-position: center;
+    background-size: contain;
+}
+
+.d-block.one {
+    background-image: url('/assets/friend.jpg');
+}
+
+.d-block.two {
+    background-image: url('/assets/home_two.png');
 }
 
 .top-bar {

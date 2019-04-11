@@ -23,10 +23,10 @@ title: Security and Financial Empowerment [SAFE]
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/assets/home_two.png" class="d-block w-100" alt="...">
+                <div class="d-block w-100 one"></div>
             </div>
             <div class="carousel-item">
-                <img src="/assets/friend.jpg" class="d-block w-100" alt="...">
+                <div class="d-block w-100 two"></div>
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
