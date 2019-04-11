@@ -127,11 +127,21 @@ a {
 .full-top {
     height:400px;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 400px;
     width: 100vw;
     margin-left: calc(-50vw + 50%);
+}
+
+.full-top.message-text {
+    top: calc(200px - 93px);
+    padding: 30px;
+    margin: auto;
+    position: relative;
+    width: 45%;
+    background: #ffffffbf;
+    text-align: center;
 }
 
 #bloom {
