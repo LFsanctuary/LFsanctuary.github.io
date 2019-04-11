@@ -82,7 +82,8 @@ title: Security and Financial Empowerment [SAFE]
 </div>
 
 <div id="volunteer" class="page">
-    <br><br>
+    <div id="vol" class="full-top"></div>
+    <br>
     <h2>Becoming a Volunteer</h2>
     <p>“Volunteering is the most fundamental act of citizenship and philanthropy in our society. Its offering time, energy and skills of one’s own free will. It is an extension of being a good neighbour, transforming a collection of houses into a community, as people become involved in the improvement of their surroundings and choose to help others. By caring and contributing to change, volunteers decrease suffering and disparity, while they gain skills, self-esteem and change in their lives. People work to improve the lives of their neighbours and, in return, enhance their own lives” - Volunteer Ontario, 1996</p> 
     <h4>General Requirements to Become a Volunteer for S.A.F.E</h4>

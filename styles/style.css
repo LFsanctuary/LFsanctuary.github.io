@@ -152,6 +152,10 @@ a {
     background-image: url('/assets/services.png');
 }
 
+#vol {
+    background-image: url('/assets/vol.png');
+}
+
 .half-box {
     display: flex;
     justify-content: flex-start;
