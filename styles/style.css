@@ -81,5 +81,30 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .carousel {
+    margin-top: 90px;
     margin-bottom: 20px !important;
+}
+
+.top-bar {
+    position: absolute;
+    top: 87px;
+    right: 0;
+    left: 0;
+    text-align: center;
+    color: white;
+    background: #ea91b0;
+    padding: 35px;
+    border-bottom: 20px solid #f1ecfb;
+}
+
+a:hover {
+    color: #9770d4 !important;
+}
+
+a {
+    color: #a685db !important;
+}
+
+.home-msg {
+    text-align: center;
 }

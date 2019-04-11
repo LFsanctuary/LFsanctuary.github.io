@@ -17,7 +17,7 @@ title: Security and Financial Empowerment [SAFE]
 
 <div id="home" class="page">
     <br><br>
-    <h4>Sanctuary for Women Victims of Abuse - <i>You are SAFE with us!</i></h4>
+    <h4 class="top-bar">Sanctuary for Women Victims of Abuse - <i>You are SAFE with us!</i></h4>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item">
@@ -36,7 +36,7 @@ title: Security and Financial Empowerment [SAFE]
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <p>Do you or someone you know suffer from abuse? <a href="mailto:ashley.lapierre@student.sl.on.ca">Contact us</a></p>
+    <p class="home-msg">Do you or someone you know suffer from abuse? <a href="mailto:ashley.lapierre@student.sl.on.ca">Contact us</a></p>
 </div>
 
 <div id="about" class="page">
