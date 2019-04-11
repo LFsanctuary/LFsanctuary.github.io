@@ -151,3 +151,22 @@ a {
 #serv {
     background-image: url('/assets/services.png');
 }
+
+.half-box {
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+
+#facts {
+    background-image: url('/assets/moreinfo.png');
+}
+
+.half-img {
+    width:40%;
+    min-width: 400px;
+}
+
+.half-text {
+    width:60%;
+}

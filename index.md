@@ -66,13 +66,19 @@ title: Security and Financial Empowerment [SAFE]
 
 <div id="info" class="page">
     <br><br>
-    <h2>Facts & Statistics</h2>
-    <ul>
-        <li>“Spousal violence has been consistently identified as one of the most common forms of violence against women in Canada.”</li>
-        <li>“The majority of spousal violence victims are women, representing 83% of all victims.”</li>
-        <li>“Women are almost four times more likely than men to be victims of spousal violence.”</li>
-        <li>“79% of women who do report claim they are dealing with the situation in another way, while 74% do not report because they consider it a personal matter (2009).”</li>
-    </ul>
+    <div class="half-box">
+        <div id="facts" class="half-img">
+        </div>
+        <div class="half-text">
+            <h2>Facts & Statistics</h2>
+            <ul>
+                <li>“Spousal violence has been consistently identified as one of the most common forms of violence against women in Canada.”</li>
+                <li>“The majority of spousal violence victims are women, representing 83% of all victims.”</li>
+                <li>“Women are almost four times more likely than men to be victims of spousal violence.”</li>
+                <li>“79% of women who do report claim they are dealing with the situation in another way, while 74% do not report because they consider it a personal matter (2009).”</li>
+            </ul>
+        </div>
+    </div>
 </div>
 
 <div id="volunteer" class="page">
