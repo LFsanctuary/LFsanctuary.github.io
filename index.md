@@ -17,17 +17,20 @@ title: S.A.F.E Sanctuary for Women
 
 <div id="home" class="page">
     <br><br>
+    <h4>Security and Financial Empowerment [SAFE]</h4>
+    <h5>Sanctuary for Women Victims of Abuse</h5>
+    <p>You are SAFE with us</p>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item">
-                <img src="https://static.stereogum.com/uploads/2017/12/millenialpink-1513186374-640x480.jpg" class="d-block w-100" alt="...">
+                <img src="/assets/home_one.png" class="d-block w-100" alt="...">
             </div>
             <div class="carousel-item active">
-            <img src="https://data.whicdn.com/images/250049179/large.png" class="d-block w-100" alt="...">
+            <img src="/assets/home_two.png" class="d-block w-100" alt="...">
             </div>
-            <div class="carousel-item">
+            <!--div class="carousel-item">
             <img src="https://www.beautycolorcode.com/ffbdb3-2048x1536.png" class="d-block w-100" alt="...">
-            </div>
+            </div-->
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -38,7 +41,7 @@ title: S.A.F.E Sanctuary for Women
             <span class="sr-only">Next</span>
         </a>
     </div>
-    <p>slick saring like You are S.A.F.E with us</p>
+    <p>Do you or someone you know suffer from abuse? <a href="mailto:ashley.lapierre@student.sl.on.ca"></a></p>
 </div>
 
 <div id="about" class="page">
