@@ -9,7 +9,9 @@ title: Security and Financial Empowerment [SAFE]
         <h3>Welcome,</h3>
         <h4>please enter your invite code below to access the full website</h4>
         <div class="card-body">
+            <form>
             <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Enter invite code">
+            </form>
             <button class="btn btn-primary" onclick="loadPage('home')">Enter</button>
         </div>
     </div>
