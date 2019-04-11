@@ -52,7 +52,8 @@ title: Security and Financial Empowerment [SAFE]
 </div>
 
 <div id="services" class="page">
-    <br><br>
+    <div id="serv" class="full-top"></div>
+    <br>
     <h2>What we offer</h2>
     <p>We provide a variety of services to assist victims get back on track mentally, emotionally, physically and financially. Our building is secured as to offer safety and comfort for our clients. With the services listen below the client has a chance to regain a healthy well-being and become financially stable to reclaim their independence.</p>
     <p><b>Child Care</b> - S.A.F.E offers a daycare for mothers using our program. It is important for moms to be able to attend schedules counselling sessions as well as job search. We offer daycare in our facility from 9am-5pm that is run by trained Early Childhood Educators for the women who need it. This enables them to be able to go to Job-zone, hand out resumes, go to their counselling session etc...</p>
