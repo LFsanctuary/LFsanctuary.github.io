@@ -181,13 +181,14 @@ a {
     padding: 0 35px;
 }
 
-
-@media(max-width:600px) {
+@media(max-width:995px) {
     .top-bar {
         position: relative !important;
         margin-top: 0 !important;
         top: 0 !important;
     }
+}
+@media(max-width:600px) {
 
     .full-top .message-text {
         font-size: 1.2em !important;
