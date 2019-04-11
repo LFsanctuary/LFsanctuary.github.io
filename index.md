@@ -17,8 +17,7 @@ title: Security and Financial Empowerment [SAFE]
 
 <div id="home" class="page">
     <br><br>
-    <h4>Sanctuary for Women Victims of Abuse</h4>
-    <h5><i>You are SAFE with us</i></h5>
+    <h4>Sanctuary for Women Victims of Abuse - <i>You are SAFE with us!</i></h4>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item">

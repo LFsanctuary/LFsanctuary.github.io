@@ -49,9 +49,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-light .navbar-brand {
     font-family: 'Heebo', sans-serif !important;
-    color: rgba(73, 16, 78, 0.9) !important;
+    color: rgb(223, 43, 106) !important;
     margin-right: 10% !important;
-    font-size: 2em !important;
+    font-weight: bold;
+    font-size: 0.95em !important;
 }
 
 .welcome-card {
